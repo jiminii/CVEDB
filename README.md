@@ -11,6 +11,11 @@ cd CVEDB/
 ### 1. DB generator
 *DBGenerator* creates a database of CVE vulnerabilities for each version of each component from NVD. 
 
+[https://drive.google.com/file/d/1gNj33x5yOsRYMLLPbdAkNTpMSTbdDgFq/view](https://drive.google.com/file/d/1gNj33x5yOsRYMLLPbdAkNTpMSTbdDgFq/view)
+
+- Due to DB capacity limitations, please download from Google Drive and use it.
+- Please unzip and put *Database.json* in ***/CVEDB/DB/***
+
 ```
 To be continue
 ```
