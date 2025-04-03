@@ -21,3 +21,5 @@ To be continue
 ```
 python3 ./src/VersionMapping.py
 ```
+
+- Input & Output file name needs to be changed manually
